@@ -4,14 +4,23 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-    
-    
+       
 h1 {
     font-size: 50px;
     font-weight: normal;
 }
 
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
 a {
     color: aquamarine;
     font-size: 16px;
+}
+
+custom-title {
+    font-weight: 300;
+    font-size: 42px;
 }
